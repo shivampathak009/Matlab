@@ -1,0 +1,6 @@
+Student | Sub1 | Sub2 | Sub3 | Total | Average | Status
+Student 1 | 45 | 55 | 78 | 178 | 59.33 | Pass
+Student 2 | 41 | 65 | 22 | 128 | 42.67 | Pass
+Student 3 | 74 | 56 | 24 | 154 | 51.33 | Pass
+Student 4 | 74 | 85 | 96 | 255 | 85.00 | Pass
+Student 5 | 45 | 65 | 21 | 131 | 43.67 | Pass

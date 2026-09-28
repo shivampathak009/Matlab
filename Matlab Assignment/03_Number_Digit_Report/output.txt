@@ -1,0 +1,7 @@
+Original numberber:
+numberber of Digits: 0
+Sum of Digits: 0
+Count of Even Digits: 0
+Count of Odd Digits: 0
+Reversed numberber: 0
+Is Palindrome: No

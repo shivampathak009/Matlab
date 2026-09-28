@@ -1,0 +1,9 @@
+Manual Result:
+13	22	
+41	66	
+
+MATLAB Built-in Result:
+13	22	
+41	66	
+
+Match Status: Both results MATCH perfectly!

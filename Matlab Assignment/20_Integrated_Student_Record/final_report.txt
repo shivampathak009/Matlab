@@ -1,0 +1,12 @@
+
+Raw Input Marks:
+45 65 22 35 64 89 14 45 75 75 Total Entries Read : 10
+Valid Marks Count  : 10
+Invalid Entries    : 0
+Total Valid Marks  : 529
+Average Mark       : 52.90
+Highest Mark       : 89
+Lowest Mark        : 14
+Pass Count         : 7
+Fail Count         : 3
+Overall Status     : PASS

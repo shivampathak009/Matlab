@@ -1,0 +1,10 @@
+22	44	65	47	
+11	24	35	65	
+78	84	98	54	
+Minimum Value : 11 at Position (2, 1)
+Maximum Value : 98 at Position (3, 3)
+Row 1 Sum : 178
+Row 2 Sum : 135
+Row 3 Sum : 314
+
+Highest Row Sum : 314 (Row 3)

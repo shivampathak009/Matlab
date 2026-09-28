@@ -1,0 +1,16 @@
+15 
+26 
+34 
+88 
+99 
+45 
+67 
+45 
+Total Elements : 8
+Positive Count : 8
+Negative Count : 0
+Zero Count     : 0
+Sum            : 419
+Average        : 52.38
+Minimum        : 15
+Maximum        : 99

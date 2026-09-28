@@ -1,0 +1,12 @@
+Testing Input: 25
+Result: Factorial of 25 is: 1.55112e+25
+
+Testing Input: 0
+Result: Factorial of 0 is: 1
+
+Testing Input: -7
+Result: Invalid Input (Rejected)
+
+Testing Input: 7.5
+Result: Invalid Input (Rejected)
+

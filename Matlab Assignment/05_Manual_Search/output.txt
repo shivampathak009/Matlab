@@ -1,0 +1,2 @@
+Value 89 found at first position: 3
+Total occurrences of 89: 1

@@ -1,0 +1,9 @@
+Total Transactions      : 15
+Credit Transactions     : 6
+Debit Transactions      : 6
+Zero Transactions       : 3
+Total Credits Amount    : 25910
+Total Debits Amount     : -2850
+Net Balance             : 23060
+Largest Credit          : 7800
+Largest Debit Magnitude : 820

@@ -1,0 +1,5 @@
+Name: keshav  | Status: Present
+Name: shivam | Status: Present
+Name: mohit | Status: Absent
+Name: krishna | Status: Late
+Name: vivek | Status: Absent
